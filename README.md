@@ -54,8 +54,8 @@ This project demonstrates an approach to object detection that combines **Knowle
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-repo.git
-   cd project-repo
+   git clone https://github.com/MDalamin5/CSE465-Project-Knowledge-Distillation-for-Efficient-Object-Detection.git
+   cd SRC-COde
    ```
 2. Install dependencies:
    ```bash
